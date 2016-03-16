@@ -1,4 +1,4 @@
-package me.tedzhang.demo.designpattern.creational.proxy;
+package me.tedzhang.demo.designpattern.creational.prototype;
 
 import java.util.ArrayList;
 import java.util.List;

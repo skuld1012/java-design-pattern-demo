@@ -1,4 +1,4 @@
-package me.tedzhang.demo.designpattern.creational.proxy;
+package me.tedzhang.demo.designpattern.creational.prototype;
 
 import java.util.List;
 
@@ -8,7 +8,7 @@ import java.util.List;
  * 
  * @author skuld1012
  */
-public class ProxyPatternMain {
+public class PrototypePatternMain {
 
 	public static void main(String[] args) throws CloneNotSupportedException {
 		Employees emps = new Employees();
