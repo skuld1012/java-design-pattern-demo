@@ -1,4 +1,4 @@
-package me.tedzhang.demo.designpatter.behavioral.templatemethod;
+package me.tedzhang.demo.designpattern.behavioral.templatemethod;
 
 /**
  * The Template Method Pattern defines the skeleton of an algorithm in a method, deferring 
